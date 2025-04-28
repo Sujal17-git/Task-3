@@ -1,4 +1,4 @@
-#Task 3 of AI & ML Internship by Elevate Labs
+Task 3 of AI & ML Internship by Elevate Labs
 
 i choose Housing.csv data set to perform task
 code editor is jupiter notbook
