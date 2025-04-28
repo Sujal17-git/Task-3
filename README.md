@@ -1,7 +1,7 @@
-- Task 3 of AI & ML Internship by Elevate Labs
+#Task 3 of AI & ML Internship by Elevate Labs
 
-- i choose Housing.csv data set to perform task
-- code editor is jupiter notbook
+i choose Housing.csv data set to perform task
+code editor is jupiter notbook
 
 1.Import and preprocess the dataset.
 - import data and and replace all yes to 1 and no to 0 for performing regression
